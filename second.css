@@ -20,6 +20,7 @@ td{
     border: 1px solid rgb(204,200,200);
     text-align: left;
     padding: 8px 15px;
+    color: aliceblue;
 }
 
 tr:nth-child(even), table.list thread> tr{
